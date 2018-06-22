@@ -23,7 +23,7 @@ This project requires **Python 3.6** and the following Python libraries installe
 
 Please note that Jupiter Notebook [Jupyter Notebook](http://ipython.org/notebook.html) is needed.
 
-To install Python, you can install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. However, the Python 2.7 installer should be selected and not the Python 3.x installer.
+To install Python, you can install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. However, the Python 3.x installer should be selected and not the Python 2.7 installer.
 
 ### Code
 
